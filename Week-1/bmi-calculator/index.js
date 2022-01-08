@@ -106,11 +106,3 @@ console.log(`
     Eat ${Math.round(calUse)} calories a day
     For ${Math.round(toWeektridealw)} weeks
 `)
-let a = [
-   'a',
-   'b',
-   'c',
-];
-
-console.log(a[0]);
-console.log(a[1]);
