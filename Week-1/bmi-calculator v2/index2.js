@@ -128,7 +128,7 @@ function formatOutput(userObject){
 
   If you want to reach your ideal weight of ${userObject.idealWeight} kg:
 
-  Eat ${userObject.dietCal} calories a day
+  Eat ${userObject.DietCal} calories a day
   For ${userObject.DietWeeks} weeks
   `;
 }
